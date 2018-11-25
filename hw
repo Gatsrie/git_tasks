@@ -1,7 +1,0 @@
-#include<stdio.h>
-
-
-
-printf("冲冲冲");
-
-return 0;
